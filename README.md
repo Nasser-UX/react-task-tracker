@@ -1,2 +1,2 @@
 # react-task-tracker
-Created with CodeSandbox
+components, prop types, states, React Router
